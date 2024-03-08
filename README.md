@@ -15,7 +15,7 @@ A *Document Management System*
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/VJBano/ts-node_express_template.git
+   git clone https://github.com/VJBano/DOCS_MS.git
 
 
 ## Usage
